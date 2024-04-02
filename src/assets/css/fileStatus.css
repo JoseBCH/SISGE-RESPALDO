@@ -1,0 +1,28 @@
+.badge {
+    padding: 0.5rem;
+    border-radius: 2px;
+    font-size: 12px;
+
+}
+
+.tramite,.ejecucion,.archivado{width: 7.5em;}
+
+.tramite {
+    background-color: #ffecd2;
+    color: #ffa21d;
+    border: 1px solid #F4BD50;
+    border-radius: 4px;
+}
+
+.ejecucion {
+    background-color: #d1f4e0;
+    color: #17c666;
+    border: 1px solid #2ecc71;
+    border-radius: 4px;
+}
+
+.archivado {
+    background-color:#fbdbdb;
+    color: #ea4d4d;
+    border: 1px solid #EA4D4D;
+}

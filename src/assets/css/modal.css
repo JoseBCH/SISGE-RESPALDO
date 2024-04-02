@@ -1,0 +1,21 @@
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 0px;
+}
+
+.modal-content {
+    background: #fff;
+    width: 600px;
+    height: auto !important;
+    border-radius: 4px !important;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+    position: relative !important;
+}
